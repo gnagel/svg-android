@@ -1,0 +1,11 @@
+*~
+.DS_Store
+/bin
+/gen
+/junit-reports
+build
+
+/svg_source/drawable
+/svg_source/drawable-ldpi
+/svg_source/drawable-hdpi
+/svg_source/drawable-xhdpi
